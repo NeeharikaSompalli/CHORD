@@ -1,0 +1,33 @@
+add 1
+add 2
+join 1 2
+stab 2
+fix 1
+fix 2
+add 3
+join 3 2
+stab 2
+fix 1
+fix 2
+fix 3
+add 4
+join 4 2
+stab 3
+fix 1
+fix 2
+fix 3
+fix 4
+drop 3
+stab 2
+fix 2
+fix 1
+fix 4
+drop 1
+stab 2
+fix 2
+fix 4
+stab 2
+Stab 4
+List
+
+
